@@ -228,5 +228,7 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN,imdb.com
 DOMAIN-SUFFIX,olevod.com
 DOMAIN,olevod.com
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN,thepiratebay.org
 
 
